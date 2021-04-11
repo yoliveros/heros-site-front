@@ -27,4 +27,4 @@ info All dependencies
 └─ through@2.3.8
 $ husky install
 husky - Git hooks installed
-Done in 29.40s.
+Done in 15.63s.
