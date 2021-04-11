@@ -1,5 +1,5 @@
-import logo from 'logo.svg';
-import 'App.css';
+import logo from 'logo.svg'
+import 'App.css'
 
 const App = (): JSX.Element => (
   <div className="App">
@@ -18,6 +18,6 @@ const App = (): JSX.Element => (
       </a>
     </header>
   </div>
-);
+)
 
-export default App;
+export default App
